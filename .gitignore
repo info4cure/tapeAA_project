@@ -1,0 +1,8 @@
+data/raw/*
+data/processed/*
+results/*
+*.log
+*.tmp
+.DS_Store
+.Rhistory
+.RData
